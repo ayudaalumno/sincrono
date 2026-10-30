@@ -1,0 +1,11 @@
+Flujo diario de trabajo a partir de ahora
+•	Antes de empezar a trabajar (descargar cambios del Mac):
+
+            git pull
+
+•	Al terminar de hacer cambios en Windows (subir al repositorio):
+
+           git add .
+	   git commit -m "Descripción de los cambios"
+	   git push
+
